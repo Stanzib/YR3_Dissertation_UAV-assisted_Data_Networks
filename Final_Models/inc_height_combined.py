@@ -1,3 +1,5 @@
+# The combination of all power increase scripts - AI brought them together and subsequently tidied it up
+
 print("script started: Combined Height Model Comparison")
 
 import numpy as np
