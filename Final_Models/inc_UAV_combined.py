@@ -1,3 +1,5 @@
+# The combination of all UAV increase scripts - AI brought them together and subsequently tidied it up
+
 print("script started: Combined Model Comparison")
 
 import numpy as np
